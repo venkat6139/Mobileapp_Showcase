@@ -82,7 +82,7 @@ const Home = () => (
     </div>
     <div className="home5-container">
         <h1 className="home5-container-heading">App Screenshots</h1>
-        <img src="https://i.ibb.co/grKkfHM/dsd-2-2.png" alt="dsd-2" border="0" className="image"/>
+        <img src="https://i.ibb.co/grKkfHM/dsd-2-2.png" alt="dsd-2" border="0" className="image-das"/>
         <p className="home5-container-para">Saepe quo labore aenean dictumst expedita commodi <br/> auctor, nisl, lorem iusto feugiat nemo reiciendis laboris.</p>
         <div className="screenshots-container">
             <img src="https://i.ibb.co/MZCYsGs/screenshot16-1.png" alt="screenshot16-1" border="0" className="screenshot-image"/>
@@ -96,7 +96,7 @@ const Home = () => (
     </div>
     <div className="home6-container">
         <h1 className="home5-container-heading">Review's From Students</h1>
-        <img src="https://i.ibb.co/grKkfHM/dsd-2-2.png" alt="dsd-2" border="0" className="image"/>
+        <img src="https://i.ibb.co/grKkfHM/dsd-2-2.png" alt="dsd-2" border="0" className="image-das"/>
         <div className="student-review-container">
             <img src="https://i.ibb.co/L9HQCpR/Vector.png" alt="Vector" border="0" className="vector"/>
             <div className="review-container">

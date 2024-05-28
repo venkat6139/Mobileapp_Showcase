@@ -94,6 +94,11 @@ text-align: center;
     width: 104px;
 height: 16px;
 }
+.image-das{
+    width: 104px;
+height: 16px;
+margin-left: 600px;
+}
 .content-container{
     display: flex;
     flex-direction: column;
