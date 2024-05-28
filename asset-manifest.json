@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mobileapp_Showcase/static/css/main.63699fba.css",
+    "main.js": "/Mobileapp_Showcase/static/js/main.61594443.js",
+    "static/js/453.ec4226d2.chunk.js": "/Mobileapp_Showcase/static/js/453.ec4226d2.chunk.js",
+    "index.html": "/Mobileapp_Showcase/index.html",
+    "main.63699fba.css.map": "/Mobileapp_Showcase/static/css/main.63699fba.css.map",
+    "main.61594443.js.map": "/Mobileapp_Showcase/static/js/main.61594443.js.map",
+    "453.ec4226d2.chunk.js.map": "/Mobileapp_Showcase/static/js/453.ec4226d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63699fba.css",
+    "static/js/main.61594443.js"
+  ]
+}
